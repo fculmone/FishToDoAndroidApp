@@ -1,4 +1,4 @@
-# An Aquariam Inspired To-Do List
+# An Aquarium Inspired To-Do List
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -102,21 +102,6 @@ To delete a task, swipe left on the task.
 <p align="center"><img src=https://i.imgur.com/1wPamo0.png width="200" height="375"></p>
 
 And that's everything! To finish, <a href="https://youtu.be/g4DrDoNVEwg">here is a video</a> showcasing the app in regular use.
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -137,21 +122,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Francesco Culmone - [My LinkedIn](https://www.linkedin.com/in/francesco-culmone-34562823a/) - fculmone5@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/fculmone/FishToDoAndroidApp](https://github.com/fculmone/FishToDoAndroidApp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -160,16 +136,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [How to make a Todo List in Android Studio - The Penguin Coders](https://www.youtube.com/watchv=7u5_NNrbQos&list=PLzEWSvaHx_Z2MeyGNQeUCEktmnJBp8136&ab_channel=PenguinCoders)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
