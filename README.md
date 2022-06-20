@@ -101,7 +101,7 @@ To delete a task, swipe left on the task.
 
 <p align="center"><img src=https://i.imgur.com/1wPamo0.png width="200" height="375"></p>
 
-And that's everything! To finish, here is a video showcasing the app in regular use.
+And that's everything! To finish, <a href="https://youtu.be/g4DrDoNVEwg">here is a video</a> showcasing the app in regular use.
 <!-- ROADMAP -->
 ## Roadmap
 
