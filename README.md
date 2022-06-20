@@ -79,10 +79,29 @@ _Below are the instructions for installing this APK on your device_
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This is what you will see when starting up the app for the first time
+This is what you will see when starting up the app for the first time.
 
+<p align="center"><img src=https://i.imgur.com/70uV0OX.png width="200" height="375"></p>
 
+To add a list item, simply click the green plus icon in the bottom right of the screen.
 
+Once you have added a few tasks, you should see the screen start to fill up while leaving room for the fish to swim around.
+
+<p align="center"><img src=https://i.imgur.com/rUhF9p0.png width="200" height="375"></p>
+
+If you check a task, a piece of food will be dropped into the tank. Your fishy friend will then swim to the food and eat it.
+
+<p align="center"><img src=https://i.imgur.com/rDYsNt3.png width="200" height="375"></p>
+
+To rename a task, swipe right on the task.
+
+<p align="center"><img src=https://i.imgur.com/27lG43b.png width="200" height="375"></p>
+
+To delete a task, swipe left on the task.
+
+<p align="center"><img src=https://i.imgur.com/1wPamo0.png width="200" height="375"></p>
+
+And that's everything! To finish, here is a video showcasing the app in regular use.
 <!-- ROADMAP -->
 ## Roadmap
 
