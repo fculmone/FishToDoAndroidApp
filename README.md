@@ -40,8 +40,6 @@
 This is a fun little Android App I made in my free time. It helped me better understand how to use Android Studio, Java, SQLite, and GitHub as a whole. 
 I really hope that you end up enojoying this little app and makes getting your stuff done a little more entertaining.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -102,6 +100,9 @@ To delete a task, swipe left on the task.
 <p align="center"><img src=https://i.imgur.com/1wPamo0.png width="200" height="375"></p>
 
 And that's everything! To finish, <a href="https://youtu.be/g4DrDoNVEwg">here is a video</a> showcasing the app in regular use.
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
