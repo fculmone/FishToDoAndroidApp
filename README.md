@@ -137,7 +137,7 @@ Project Link: [https://github.com/fculmone/FishToDoAndroidApp](https://github.co
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [How to Make a Todo List in Android Studio - The Penguin Coders](https://www.youtube.com/watchv=7u5_NNrbQos&list=PLzEWSvaHx_Z2MeyGNQeUCEktmnJBp8136&ab_channel=PenguinCoders)
+* [How to Make a Todo List in Android Studio - The Penguin Coders](https://www.youtube.com/playlist?list=PLzEWSvaHx_Z2MeyGNQeUCEktmnJBp8136)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
